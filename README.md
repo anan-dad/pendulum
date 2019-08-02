@@ -6,7 +6,7 @@ Apply REINFORCE and ACTOR-CRITIC algorithm on modified Pendulum-v0. The details 
 
 # Optimisation
 
-<img align="middle" src="imgs/01.png" alt="">
+<div align=center><img src="imgs/01.png"/></div>
 
 * Trade off between episode length and number of episodes
 
@@ -23,7 +23,7 @@ Apply REINFORCE and ACTOR-CRITIC algorithm on modified Pendulum-v0. The details 
 * Binary reward
 * Only 5% of transitions contain useful information
 
-<img align="middle" src="imgs/03.png" alt="">
+<div align=center><img src="imgs/03.png"/></div>
 
 
 # Improvement
