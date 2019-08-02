@@ -2,12 +2,12 @@
 
 Apply REINFORCE and ACTOR-CRITIC algorithm on modified Pendulum-v0. The details about the environment modification can be found at `pendulum.py`.
 
-<img src="imgs/02.png">
+<img align="middle" src="imgs/02.png">
 
 
 ## Optimisation
 
-<img src="imgs/01.png">
+<img align="middle" src="imgs/01.png">
 
 ### Trade off between episode length and number of episodes
 
@@ -28,7 +28,7 @@ Apply REINFORCE and ACTOR-CRITIC algorithm on modified Pendulum-v0. The details 
 
 #### Only 5% of transitions contain useful information
 
-<img src="imgs/03.png">
+<img align="middle" src="imgs/03.png">
 
 
 ## Improvement
