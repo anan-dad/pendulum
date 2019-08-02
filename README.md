@@ -1,9 +1,8 @@
 # Policy Gradient on modified Pendulum-v0
 
 Apply REINFORCE and ACTOR-CRITIC algorithm on modified Pendulum-v0. The details about the environment modification can be found at `pendulum.py`.
-
-<img align="center" src="imgs/02.png" alt="">
-
+  
+<div align=center><img src="imgs/02.png"/></div>
 
 # Optimisation
 
@@ -17,7 +16,7 @@ Apply REINFORCE and ACTOR-CRITIC algorithm on modified Pendulum-v0. The details 
 # Limitations
 
 ## Hyperparameter optimisation is expensive
-* neural network has to wait till the end of each episode to update gradient
+* Neural network has to wait till the end of each episode to update gradient
 
 ## Not enough exploration, does not converge
 * Max torque is -2/2, max speed is -8/8
