@@ -1,19 +1,17 @@
 # Policy Gradient on modified Pendulum-v0
 
-Apply REINFORCE and ACTOR-CRITIC algorithm on modified Pendulum-v0. 
+Apply REINFORCE and ACTOR-CRITIC algorithm on modified Pendulum-v0. The details about the environment modification can be found at `pendulum.py`.
 
-The details about the environment modification can be found at `pendulum.py`.
-
-<img align="middle" src="imgs/02.png" alt="">
+<img align="center" src="imgs/02.png" alt="">
 
 
 ## Optimisation
 
 <img align="middle" src="imgs/01.png" alt="">
 
-### 1.Trade off between episode length and number of episodes
+* Trade off between episode length and number of episodes
 
-### 2.Policy network hyperparameters: manual tuning
+* Policy network hyperparameters: manual tuning
 
 
 ## Limitations
